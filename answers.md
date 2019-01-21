@@ -1,4 +1,4 @@
-### Questions
+## Questions
 
 1. What is responsible for defining the routes of the `games` resource?
 The server.js and the create_router helper.
